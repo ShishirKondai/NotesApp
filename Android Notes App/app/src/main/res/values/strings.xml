@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android Notes</string>
+    <string name="fileName">Note.json</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="toastMessage">Null Note String</string>
+    <string name="multi_notes">Multi Notes</string>
+    <string name="_2022_shishir_kondai">© 2022, Shishir Kondai</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="titleMissing">Cannot save note without title!</string>
+    <string name="save">Save</string>
+</resources>
